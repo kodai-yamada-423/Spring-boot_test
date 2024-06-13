@@ -1,5 +1,16 @@
 # お絵描きチャレンジアプリ
 
+<p>
+<img src="https://img.shields.io/badge/react-blue.svg?logo=react&style=for-the-badge">
+<img src="https://img.shields.io/badge/axios-5A29E4.svg?logo=axios&style=for-the-badge">
+<img src="https://img.shields.io/badge/Kotlin-gray.svg?logo=Kotlin&style=for-the-badge">
+<img src="https://img.shields.io/badge/postgresql-white.svg?logo=postgresql&style=for-the-badge">
+<img src="https://img.shields.io/badge/vite-yellow.svg?logo=vite&style=for-the-badge">
+</p>
+<p>
+<img src="https://yamada-ui.com/logo-white.png" width="20%">
+</p>
+
 初めて触ったスプリングブートでお絵描きアプリ(笑)を作ってみたンゴ 🍊
 
 ## 概要
@@ -16,16 +27,20 @@
 
 ## 使用技術
 
-<p>
-<img src="https://img.shields.io/badge/react-blue.svg?logo=react&style=for-the-badge">
-<img src="https://img.shields.io/badge/axios-5A29E4.svg?logo=axios&style=for-the-badge">
-<img src="https://img.shields.io/badge/Kotlin-gray.svg?logo=Kotlin&style=for-the-badge">
-<img src="https://img.shields.io/badge/postgresql-white.svg?logo=postgresql&style=for-the-badge">
-<img src="https://img.shields.io/badge/vite-yellow.svg?logo=vite&style=for-the-badge">
-</p>
-<p>
-<img src="https://yamada-ui.com/logo-white.png" width="20%">
-</p>
+フロントエンド
+
+- React
+- canvas API
+- VITE
+- yamadaUI
+- React-router-dom
+- React-icons
+
+バックエンド
+
+- Spring Boot
+- Kotlin
+- postgreSQL
 
 ### フロントエンドのセットアップ
 
