@@ -1,0 +1,2 @@
+TRUNCATE TABLE users;
+INSERT INTO users VALUES (1,'ymd','423');
