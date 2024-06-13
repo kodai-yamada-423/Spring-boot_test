@@ -96,9 +96,3 @@ class PictureAppApplicationTests(@Autowired val restTemplate: TestRestTemplate,
 
 }
 
-//val todos = response.body!!
-//assertThat(todos.size, equalTo(2))
-//assertThat(todos[0].id, equalTo(1))
-//assertThat(todos[0].text, equalTo("test1"))
-//assertThat(todos[1].id, equalTo(2))
-//assertThat(todos[1].text, equalTo("test2"))
