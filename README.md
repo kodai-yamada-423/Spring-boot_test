@@ -1,6 +1,6 @@
 # お絵描きチャレンジアプリ
 
-スプリングブートでお絵描きアプリ(笑)を作ってみたンゴ 🍊
+初めて触ったスプリングブートでお絵描きアプリ(笑)を作ってみたンゴ 🍊
 
 ## 概要
 
@@ -14,15 +14,35 @@
 - 絵の保存機能
 - ギャラリーの表示
 
-## 環境構築
+## 使用技術
 
 <p>
 <img src="https://img.shields.io/badge/react-blue.svg?logo=react&style=for-the-badge">
-<img src="https://img.shields.io/badge/axios-violet.svg?logo=axios&style=for-the-badge">
+<img src="https://img.shields.io/badge/axios-5A29E4.svg?logo=axios&style=for-the-badge">
 <img src="https://img.shields.io/badge/Kotlin-gray.svg?logo=Kotlin&style=for-the-badge">
 <img src="https://img.shields.io/badge/postgresql-white.svg?logo=postgresql&style=for-the-badge">
 <img src="https://img.shields.io/badge/vite-yellow.svg?logo=vite&style=for-the-badge">
 </p>
 <p>
-<img src="https://yamada-ui.com/logo-white.png">
+<img src="https://yamada-ui.com/logo-white.png" width="20%">
 </p>
+
+### フロントエンドのセットアップ
+
+1. リポジトリをクローンします。
+
+   ```bash
+   git clone git@github.com:kodai-yamada-423/Spring-boot_test.git
+   cd PictureApp/frontend
+   ```
+
+2. 依存関係をインストールします。
+
+   ```bash
+   npm install
+   ```
+
+3. 開発サーバーを起動します。
+   ```bash
+   npm start
+   ```
