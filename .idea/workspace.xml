@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be2d3409-c6a4-41b2-9fb2-27c9f29a1464" name="変更" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Back/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Front/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Back/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Back/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Back/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Back/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Back/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Back/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/Picture.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/Picture.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/PictureAppApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/PictureAppApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/PictureController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/PictureController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/PictureRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/PictureRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/PictureService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/PictureService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/PicturesRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/PicturesRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/Title.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/Title.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/TitleController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/TitleController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/TitleRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/TitleRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/User.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/User.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/UserController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/UserController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/UserRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/UserRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/pictureApp/UserRequest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/kotlin/com/example/pictureApp/UserRequest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V01__create_users_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/db/migration/V01__create_users_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V02__create_pictures_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/db/migration/V02__create_pictures_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V03__ create_title_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/db/migration/V03__ create_title_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V04__insert_title_seed.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/db/migration/V04__insert_title_seed.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V05__change_pictures_image.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/db/migration/V05__change_pictures_image.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V06__create_pictures_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/db/migration/V06__create_pictures_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/V07__insert_title_seed.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/db/migration/V07__insert_title_seed.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/com/example/pictureApp/PictureAppApplicationTests.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/test/kotlin/com/example/pictureApp/PictureAppApplicationTests.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/add_test_users.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Back/src/test/resources/add_test_users.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/Back">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pictureApp" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pictureApp" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pictureApp" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Back のビルド.executor": "Run",
+    "Kotlin.PictureAppApplicationKt.executor": "Run",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
